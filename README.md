@@ -67,7 +67,7 @@
 
 ## About The Project
 
-[![Kibblings][kibblings-1]](client/src/components/Images/homepage.png)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
@@ -95,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
+1. Clone the kibblings-1
    ```sh
    git clone https://github.com/mnallas/kibblings-1.git
    ```
@@ -153,15 +153,16 @@ Project Link: [https://github.com/mnallas/kibblings-1](https://github.com/mnalla
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/mnallas/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/mnallas/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mnallas/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/mnallas/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/mnallas/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/mnallas/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mnallas/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/mnallas/repo/issues
-[license-shield]: https://img.shields.io/github/license/mnallas/repo.svg?style=for-the-badge
-[license-url]: https://github.com/mnallas/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mnallas/kibblings-1.svg?style=for-the-badge
+[contributors-url]: https://github.com/mnallas/kibblings-1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mnallas/kibblings-1.svg?style=for-the-badge
+[forks-url]: https://github.com/mnallas/kibblings-1/network/members
+[stars-shield]: https://img.shields.io/github/stars/mnallas/kibblings-1.svg?style=for-the-badge
+[stars-url]: https://github.com/mnallas/kibblings-1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mnallas/kibblings-1.svg?style=for-the-badge
+[issues-url]: https://github.com/mnallas/kibblings-1/issues
+[license-shield]: https://img.shields.io/github/license/mnallas/kibblings-1.svg?style=for-the-badge
+[license-url]: https://github.com/mnallas/kiblings-1/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mnallas
+[product-screenshot]: client/src/components/Images/homepage.png
